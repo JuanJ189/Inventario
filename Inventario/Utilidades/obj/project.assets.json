@@ -2752,9 +2752,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\Inventario\\Utilidades\\Utilidades.csproj",
-      "projectName": "Utilidades",
-      "projectPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\Inventario\\Utilidades\\Utilidades.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\Inventario\\Utilidades\\InventarioUtilidades.csproj",
+      "projectName": "InventarioUtilidades",
+      "projectPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\Inventario\\Utilidades\\InventarioUtilidades.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\Inventario\\Utilidades\\obj\\",
       "projectStyle": "PackageReference",

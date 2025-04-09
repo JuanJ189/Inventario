@@ -11,14 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Inventario-fad8a84e-cef9-496e-97f9-3330962e3fd0")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("Inventario")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("InvetarioData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4392c55e40acf0c093831185e162220d7b3ebd6a")]
-[assembly: System.Reflection.AssemblyProductAttribute("Inventario")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Inventario")]
+[assembly: System.Reflection.AssemblyProductAttribute("InvetarioData")]
+[assembly: System.Reflection.AssemblyTitleAttribute("InvetarioData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
