@@ -8574,7 +8574,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 03:39:00 GMT"
+          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
         },
         {
           "Name": "Vary",
@@ -8615,7 +8615,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 03:39:00 GMT"
+          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8656,7 +8656,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 03:39:00 GMT"
+          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
         },
         {
           "Name": "Vary",
@@ -8711,7 +8711,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 03:39:00 GMT"
+          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
         },
         {
           "Name": "Vary",
@@ -8760,7 +8760,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 03:39:00 GMT"
+          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
         }
       ],
       "EndpointProperties": [
@@ -8809,7 +8809,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 14 Apr 2025 03:39:00 GMT"
+          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
         },
         {
           "Name": "Vary",
@@ -9804,6 +9804,304 @@
         {
           "Name": "label",
           "Value": "lib/bootstrap/LICENSE"
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/Boostrap.Min.css",
+      "AssetFile": "lib/bootstrap/dist/css/Boostrap.Min.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000028765389"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TxL9AZhgv/iagPQOBc0lBheQ+psA+weaL9vjJwl8qD0=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"07oh/FMrjxh0EX5l1H1b5qtiNiO3dV1R/7pIeIieil0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 23:27:24 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-07oh/FMrjxh0EX5l1H1b5qtiNiO3dV1R/7pIeIieil0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/Boostrap.Min.css",
+      "AssetFile": "lib/bootstrap/dist/css/Boostrap.Min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "307899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"07oh/FMrjxh0EX5l1H1b5qtiNiO3dV1R/7pIeIieil0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 23:27:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-07oh/FMrjxh0EX5l1H1b5qtiNiO3dV1R/7pIeIieil0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/Boostrap.Min.css.gz",
+      "AssetFile": "lib/bootstrap/dist/css/Boostrap.Min.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TxL9AZhgv/iagPQOBc0lBheQ+psA+weaL9vjJwl8qD0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 23:27:24 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TxL9AZhgv/iagPQOBc0lBheQ+psA+weaL9vjJwl8qD0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/Boostrap.Min.z8986dswa8.css",
+      "AssetFile": "lib/bootstrap/dist/css/Boostrap.Min.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000028765389"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TxL9AZhgv/iagPQOBc0lBheQ+psA+weaL9vjJwl8qD0=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"07oh/FMrjxh0EX5l1H1b5qtiNiO3dV1R/7pIeIieil0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 23:27:24 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z8986dswa8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-07oh/FMrjxh0EX5l1H1b5qtiNiO3dV1R/7pIeIieil0="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/Boostrap.Min.css"
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/Boostrap.Min.z8986dswa8.css",
+      "AssetFile": "lib/bootstrap/dist/css/Boostrap.Min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "307899"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"07oh/FMrjxh0EX5l1H1b5qtiNiO3dV1R/7pIeIieil0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 23:27:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z8986dswa8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-07oh/FMrjxh0EX5l1H1b5qtiNiO3dV1R/7pIeIieil0="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/Boostrap.Min.css"
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/Boostrap.Min.z8986dswa8.css.gz",
+      "AssetFile": "lib/bootstrap/dist/css/Boostrap.Min.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TxL9AZhgv/iagPQOBc0lBheQ+psA+weaL9vjJwl8qD0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 23:27:24 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z8986dswa8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TxL9AZhgv/iagPQOBc0lBheQ+psA+weaL9vjJwl8qD0="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/Boostrap.Min.css.gz"
         }
       ]
     },

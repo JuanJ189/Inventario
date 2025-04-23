@@ -9,3 +9,15 @@ C:\Users\HP\Escritorio\C#\Aspe .net core MVC\InventarioSuper\InventarioSuperUtil
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\InventarioSuper\InventarioSuperUtilidades\obj\Debug\net9.0\refint\InventarioSuperUtilidades.dll
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\InventarioSuper\InventarioSuperUtilidades\obj\Debug\net9.0\InventarioSuperUtilidades.pdb
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\InventarioSuper\InventarioSuperUtilidades\obj\Debug\net9.0\ref\InventarioSuperUtilidades.dll
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperUtilidades\bin\Debug\net9.0\InventarioSuperUtilidades.deps.json
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperUtilidades\bin\Debug\net9.0\InventarioSuperUtilidades.dll
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperUtilidades\bin\Debug\net9.0\InventarioSuperUtilidades.pdb
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperUtilidades\obj\Debug\net9.0\InventarioSuperUtilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperUtilidades\obj\Debug\net9.0\InventarioSuperUtilidades.AssemblyInfoInputs.cache
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperUtilidades\obj\Debug\net9.0\InventarioSuperUtilidades.AssemblyInfo.cs
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperUtilidades\obj\Debug\net9.0\InventarioSuperUtilidades.csproj.CoreCompileInputs.cache
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperUtilidades\obj\Debug\net9.0\InventarioSuperUtilidades.sourcelink.json
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperUtilidades\obj\Debug\net9.0\InventarioSuperUtilidades.dll
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperUtilidades\obj\Debug\net9.0\refint\InventarioSuperUtilidades.dll
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperUtilidades\obj\Debug\net9.0\InventarioSuperUtilidades.pdb
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperUtilidades\obj\Debug\net9.0\ref\InventarioSuperUtilidades.dll

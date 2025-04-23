@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F1869A4-7EEC-4226-ACA8-361B32B8855F}|InventarioSuper\\InventarioSuper.csproj|c:\\users\\hp\\escritorio\\c#\\aspe .net core mvc\\inventariosuper\\inventariosuper\\areas\\usuarios\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F1869A4-7EEC-4226-ACA8-361B32B8855F}|InventarioSuper\\InventarioSuper.csproj|solutionrelative:inventariosuper\\areas\\usuarios\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F1869A4-7EEC-4226-ACA8-361B32B8855F}|InventarioSuper\\InventarioSuper.csproj|c:\\users\\hp\\escritorio\\c#\\aspe .net core mvc\\inventario\\inventariosuper\\inventariosuper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F1869A4-7EEC-4226-ACA8-361B32B8855F}|InventarioSuper\\InventarioSuper.csproj|solutionrelative:inventariosuper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F1869A4-7EEC-4226-ACA8-361B32B8855F}|InventarioSuper\\InventarioSuper.csproj|c:\\users\\hp\\escritorio\\c#\\aspe .net core mvc\\inventariosuper\\inventariosuper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F1869A4-7EEC-4226-ACA8-361B32B8855F}|InventarioSuper\\InventarioSuper.csproj|solutionrelative:inventariosuper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F1869A4-7EEC-4226-ACA8-361B32B8855F}|InventarioSuper\\InventarioSuper.csproj|c:\\users\\hp\\escritorio\\c#\\aspe .net core mvc\\inventario\\inventariosuper\\inventariosuper\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1869A4-7EEC-4226-ACA8-361B32B8855F}|InventarioSuper\\InventarioSuper.csproj|solutionrelative:inventariosuper\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuper\\Areas\\Usuarios\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "InventarioSuper\\Areas\\Usuarios\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuper\\Areas\\Usuarios\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "InventarioSuper\\Areas\\Usuarios\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:54:57.537Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\appsettings.json",
+              "RelativeDocumentMoniker": "InventarioSuper\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\appsettings.json",
+              "RelativeToolTip": "InventarioSuper\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T00:19:59.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuper\\Program.cs",
-              "RelativeDocumentMoniker": "InventarioSuper\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuper\\Program.cs",
-              "RelativeToolTip": "InventarioSuper\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T03:44:51.478Z",
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "InventarioSuper\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "InventarioSuper\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T00:12:34.598Z",
               "EditorCaption": ""
             },
             {

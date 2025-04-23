@@ -4923,11 +4923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuperDatos\\InventarioSuperDatos.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuperDatos\\InventarioSuperDatos.csproj",
       "projectName": "InventarioSuperDatos",
-      "projectPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuperDatos\\InventarioSuperDatos.csproj",
+      "projectPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuperDatos\\InventarioSuperDatos.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuperDatos\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuperDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4949,11 +4949,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuperModelos\\InventarioSuperModelos.csproj": {
-              "projectPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuperModelos\\InventarioSuperModelos.csproj"
+            "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuperModelos\\InventarioSuperModelos.csproj": {
+              "projectPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuperModelos\\InventarioSuperModelos.csproj"
             },
-            "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuperUtilidades\\InventarioSuperUtilidades.csproj": {
-              "projectPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuperUtilidades\\InventarioSuperUtilidades.csproj"
+            "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuperUtilidades\\InventarioSuperUtilidades.csproj": {
+              "projectPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuperUtilidades\\InventarioSuperUtilidades.csproj"
             }
           }
         }

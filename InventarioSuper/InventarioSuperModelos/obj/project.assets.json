@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuperModelos\\InventarioSuperModelos.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuperModelos\\InventarioSuperModelos.csproj",
       "projectName": "InventarioSuperModelos",
-      "projectPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuperModelos\\InventarioSuperModelos.csproj",
+      "projectPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuperModelos\\InventarioSuperModelos.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\InventarioSuper\\InventarioSuperModelos\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuperModelos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
