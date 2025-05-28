@@ -39,6 +39,7 @@ C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\Inventar
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuper\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuper\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuper\wwwroot\favicon.ico
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuper\wwwroot\js\Categoria.js
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuper\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuper\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuper\wwwroot\lib\jquery-validation\dist\additional-methods.js
@@ -63,6 +64,7 @@ C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\Inventar
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuper\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\Categoria.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\Boostrap.Min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

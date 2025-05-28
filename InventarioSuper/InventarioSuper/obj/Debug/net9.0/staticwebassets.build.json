@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vB+yefJC0YZmKIMTHGmu16kwB579EO1uypVTW4PnPWU=",
+  "Hash": "Ujoc1LmbIqsH01gNebln11q3XCJxPSAAv/HMbTjng9o=",
   "Source": "InventarioSuper",
   "BasePath": "_content/InventarioSuper",
   "Mode": "Default",
@@ -3041,6 +3041,27 @@
       "OriginalItemSpec": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\obj\\Debug\\net9.0\\compressed\\pmgjt0y610-vxq1hu45xj.gz",
+      "SourceId": "InventarioSuper",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InventarioSuper",
+      "RelativePath": "js/Categoria#[.{fingerprint=vxq1hu45xj}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\wwwroot\\js\\Categoria.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "60b703iow6",
+      "Integrity": "dj9CZ2jf0EZWfLgNak3eI7QCKFouq0UH9N0kGpDS+pQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\wwwroot\\js\\Categoria.js"
+    },
+    {
       "Identity": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\obj\\Debug\\net9.0\\compressed\\pogzkicjpz-0j3bgjxly4.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -4089,6 +4110,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\wwwroot\\js\\Categoria.js",
+      "SourceId": "InventarioSuper",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\wwwroot\\",
+      "BasePath": "_content/InventarioSuper",
+      "RelativePath": "js/Categoria#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vxq1hu45xj",
+      "Integrity": "o6c01IY5iAANYC2xLHWQ+P75X+gyF4rJg8h5GaGac4s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Categoria.js"
     },
     {
       "Identity": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\wwwroot\\js\\site.js",
@@ -14620,7 +14662,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
+          "Value": "Tue, 06 May 2025 23:42:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14673,7 +14715,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
+          "Value": "Tue, 06 May 2025 23:42:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14710,7 +14752,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
+          "Value": "Tue, 06 May 2025 23:42:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14757,7 +14799,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
+          "Value": "Tue, 06 May 2025 23:42:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14810,7 +14852,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
+          "Value": "Tue, 06 May 2025 23:42:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14847,7 +14889,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
+          "Value": "Tue, 06 May 2025 23:42:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14894,7 +14936,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
+          "Value": "Tue, 06 May 2025 23:42:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14955,7 +14997,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
+          "Value": "Tue, 06 May 2025 23:42:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15000,7 +15042,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
+          "Value": "Tue, 06 May 2025 23:42:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15055,7 +15097,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
+          "Value": "Tue, 06 May 2025 23:42:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15116,7 +15158,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
+          "Value": "Tue, 06 May 2025 23:42:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15161,7 +15203,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 23:27:55 GMT"
+          "Value": "Tue, 06 May 2025 23:42:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15188,6 +15230,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-KKS6HNsm2rSZSsgyhMAwITSJa8DWtG6h78izB020V6c="
+        }
+      ]
+    },
+    {
+      "Route": "js/Categoria.js",
+      "AssetFile": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\obj\\Debug\\net9.0\\compressed\\pmgjt0y610-vxq1hu45xj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001265822785"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "789"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dj9CZ2jf0EZWfLgNak3eI7QCKFouq0UH9N0kGpDS+pQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 01:45:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o6c01IY5iAANYC2xLHWQ+P75X+gyF4rJg8h5GaGac4s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o6c01IY5iAANYC2xLHWQ+P75X+gyF4rJg8h5GaGac4s="
+        }
+      ]
+    },
+    {
+      "Route": "js/Categoria.js",
+      "AssetFile": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\wwwroot\\js\\Categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o6c01IY5iAANYC2xLHWQ+P75X+gyF4rJg8h5GaGac4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 01:45:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o6c01IY5iAANYC2xLHWQ+P75X+gyF4rJg8h5GaGac4s="
+        }
+      ]
+    },
+    {
+      "Route": "js/Categoria.js.gz",
+      "AssetFile": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\obj\\Debug\\net9.0\\compressed\\pmgjt0y610-vxq1hu45xj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dj9CZ2jf0EZWfLgNak3eI7QCKFouq0UH9N0kGpDS+pQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 01:45:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dj9CZ2jf0EZWfLgNak3eI7QCKFouq0UH9N0kGpDS+pQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/Categoria.vxq1hu45xj.js",
+      "AssetFile": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\obj\\Debug\\net9.0\\compressed\\pmgjt0y610-vxq1hu45xj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001265822785"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "789"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dj9CZ2jf0EZWfLgNak3eI7QCKFouq0UH9N0kGpDS+pQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 01:45:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o6c01IY5iAANYC2xLHWQ+P75X+gyF4rJg8h5GaGac4s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vxq1hu45xj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Categoria.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o6c01IY5iAANYC2xLHWQ+P75X+gyF4rJg8h5GaGac4s="
+        }
+      ]
+    },
+    {
+      "Route": "js/Categoria.vxq1hu45xj.js",
+      "AssetFile": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\wwwroot\\js\\Categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o6c01IY5iAANYC2xLHWQ+P75X+gyF4rJg8h5GaGac4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 01:45:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vxq1hu45xj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Categoria.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o6c01IY5iAANYC2xLHWQ+P75X+gyF4rJg8h5GaGac4s="
+        }
+      ]
+    },
+    {
+      "Route": "js/Categoria.vxq1hu45xj.js.gz",
+      "AssetFile": "C:\\Users\\HP\\Escritorio\\C#\\Aspe .net core MVC\\Inventario\\InventarioSuper\\InventarioSuper\\obj\\Debug\\net9.0\\compressed\\pmgjt0y610-vxq1hu45xj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dj9CZ2jf0EZWfLgNak3eI7QCKFouq0UH9N0kGpDS+pQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 01:45:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vxq1hu45xj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Categoria.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dj9CZ2jf0EZWfLgNak3eI7QCKFouq0UH9N0kGpDS+pQ="
         }
       ]
     },

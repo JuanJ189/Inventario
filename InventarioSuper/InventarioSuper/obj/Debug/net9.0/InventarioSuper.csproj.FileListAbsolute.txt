@@ -832,3 +832,4 @@ C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\Inventar
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuper\obj\Debug\net9.0\InventarioSuper.genruntimeconfig.cache
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuper\obj\Debug\net9.0\ref\InventarioSuper.dll
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuper\obj\Debug\net9.0\compressed\wbihvfoni2-z8986dswa8.gz
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuper\obj\Debug\net9.0\compressed\pmgjt0y610-vxq1hu45xj.gz
