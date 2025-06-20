@@ -3,6 +3,7 @@ using InventarioSuperDatos.Data;
 using InventarioSuperModelos;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 namespace InventarioSuper.Areas.Admin.Controllers
 {
@@ -34,7 +35,7 @@ namespace InventarioSuper.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
-                _contenedor.Categoria.Add(categoria);
+                await _contenedor.Categoria.Add(categoria);
                 await _contenedor.Save();
                 return RedirectToAction(nameof(Index));
             }
@@ -74,9 +75,25 @@ namespace InventarioSuper.Areas.Admin.Controllers
 
         #region Apis
         [HttpGet]
-        public IActionResult GetAll()
+        public async Task<IActionResult> GetAll()
         {
-            return Json(new {Data = _contenedor.Categoria.GetAll() });
+            return Json(new {Data = await _contenedor.Categoria.GetAll() });
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var categoria = await _contenedor.Categoria.Get(id);
+
+            if (categoria == null)
+            {
+                return Json(new { success = false, message = "Error al eliminar la categoría" });
+            }
+
+            await _contenedor.Categoria.Remove(categoria);
+            await _contenedor.Save();
+
+            return Json(new { success = true, message = "Categoría Borrada Correctamente" });
         }
         #endregion
     }

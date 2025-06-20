@@ -11,21 +11,25 @@ namespace InventarioSuperDatos.Data.Repositorio.IRepositorio
     {
         Task<T?> Get(int? id);
 
-        IEnumerable<T> GetAll(
+        Task<IEnumerable<T>> GetAll(
             Expression<Func< T, bool>>? filter = null,
             Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null,
-            string? includeProperties = null
+            string? includeProperties = null,
+            CancellationToken cancellationToken = default
         );
 
-        T GetFirstOrDefault(
+        Task<T?> GetFirstOrDefault(
             Expression<Func<T, bool>>? filter = null,
-            string? includeProperties = null
+            string? includeProperties = null,
+            CancellationToken cancellationToken = default
         );
 
-        void Add(T entity);
+        Task Add(T entity, CancellationToken cancellationToken = default);
 
-        void Remove(int id);
+        Task Remove(int id, CancellationToken cancellationToken = default);
 
-        void Remove(T entity);
+        Task Remove(T entity, CancellationToken cancellationToken = default);
+
+        
     }
 }

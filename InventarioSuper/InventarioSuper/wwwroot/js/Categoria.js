@@ -23,7 +23,7 @@ function CargarDataTable() {
                                     <i class="fas fa-edit"></i> Editar
                                 </a>
                                 &nbsp;
-                                <a onclick=Delete("/Admin/Categorias/Delete/${data}) class="btn btn-danger text-white" style="cursor: pointer; width:110px;">
+                                <a onclick=Delete("/Admin/Categorias/Delete/${data}") class="btn btn-danger text-white" style="cursor: pointer; width:110px;">
                                     <i class="fas fa-trash-alt"></i> Eliminar
                                 </a>
                              </div>
@@ -54,4 +54,31 @@ function CargarDataTable() {
             }
         }, "width": "100%", 
     })
+}
+
+function Delete(url) {
+    swal({
+        title: "Estas seguro de borrar la categoria",
+        text: "Esta acción no se puede deshacer.",
+        icon: "warning",
+        type: "warning",
+        showCancelButton: true,
+        confirmButtonColor: "#3085d6",
+        confirmButtonText: "Si, borrar!",
+        closeOnConfirm: true
+
+    }, function () {
+        $.ajax({
+            type: 'DELETE',
+            url: url,
+            success: function (data) {
+                if (data.success) {
+                    toastr.success(data.message);
+                    DataTable.ajax.reload();
+                } else {
+                    toastr.error(data.message);
+                }
+            }
+        });
+    });
 }

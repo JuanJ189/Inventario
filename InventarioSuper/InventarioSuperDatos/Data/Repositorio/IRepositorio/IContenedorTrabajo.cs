@@ -9,7 +9,7 @@ namespace InventarioSuperDatos.Data.Repositorio.IRepositorio
     public interface IContenedorTrabajo : IDisposable
     {
         ICategoriaRepositorio Categoria { get; }
-
+        IProductoRepositorio Producto { get; }
         Task Save();
     }
 }

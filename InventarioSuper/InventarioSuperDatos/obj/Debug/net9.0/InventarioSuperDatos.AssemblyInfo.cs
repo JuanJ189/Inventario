@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InventarioSuperDatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0fbde6530802e26ed9ca895dc5e581e5ddebe26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20654120eccfd7f1c26fb25195f227b123a1bbe2")]
 [assembly: System.Reflection.AssemblyProductAttribute("InventarioSuperDatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InventarioSuperDatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

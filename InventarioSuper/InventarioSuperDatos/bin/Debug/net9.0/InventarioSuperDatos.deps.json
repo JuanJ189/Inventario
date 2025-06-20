@@ -1055,6 +1055,9 @@
         }
       },
       "InventarioSuperModelos/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "9.0.4"
+        },
         "runtime": {
           "InventarioSuperModelos.dll": {
             "assemblyVersion": "1.0.0.0",

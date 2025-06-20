@@ -21,71 +21,80 @@ namespace InventarioSuperDatos.Data.Repositorio
             this.dbSet = Datos.Set<T>();
         }
 
-        public void Add(T entity)
+        public async Task Add(T entity, CancellationToken cancellationToken = default)
         {
-            dbSet.Add(entity);
+            await dbSet.AddAsync(entity, cancellationToken);
         }
 
         public async Task<T?> Get(int? id)
         {
-            var T = await dbSet.FindAsync(id);
-
-            return T;
+            return await dbSet.FindAsync(id);
         }
 
-        public IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter = null, Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null, string? includeProperties = null)
+        public async Task<IEnumerable<T>> GetAll(Expression<Func<T, bool>>? filter = null,Func<IQueryable<T>, IOrderedQueryable<T>>? orderBy = null,string? includeProperties = null,CancellationToken cancellationToken = default)
         {
-            IQueryable<T> Consulta = dbSet;
+            IQueryable<T> query = dbSet;
 
-            if(filter != null)
+            if (filter != null)
             {
-                Consulta = Consulta.Where(filter);
+                query = query.Where(filter);
             }
 
             if (includeProperties != null)
             {
-                foreach (var item in includeProperties.Split(new char[] {',' }, StringSplitOptions.RemoveEmptyEntries))
+                foreach (var includeProperty in includeProperties.Split(
+                    new[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
                 {
-                    Consulta = Consulta.Include(item);
+                    query = query.Include(includeProperty);
                 }
             }
 
             if (orderBy != null)
             {
-                return orderBy(Consulta).ToList();
+                query = orderBy(query);
             }
 
-            return Consulta.ToList();
+            return await query.ToListAsync(cancellationToken);
         }
 
-        public T GetFirstOrDefault(Expression<Func<T, bool>>? filter = null, string? includeProperties = null)
+        public async Task<T?> GetFirstOrDefault(
+            Expression<Func<T, bool>>? filter = null,
+            string? includeProperties = null,
+            CancellationToken cancellationToken = default)
         {
-            IQueryable<T> Consulta = dbSet;
+            IQueryable<T> query = dbSet;
 
-            if(filter != null)
+            if (filter != null)
             {
-                Consulta = Consulta.Where(filter);
+                query = query.Where(filter);
             }
 
             if (includeProperties != null)
             {
-                foreach (var item in includeProperties.Split(new char[] { ','}, StringSplitOptions.RemoveEmptyEntries))
+                foreach (var includeProperty in includeProperties.Split(
+                    new[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
                 {
-                    Consulta = Consulta.Include(item);
+                    query = query.Include(includeProperty);
                 }
             }
 
-            return Consulta.FirstOrDefault();
+
+            return await query.FirstOrDefaultAsync(cancellationToken);
         }
 
-        public void Remove(int id)
+        public async Task Remove(int id, CancellationToken cancellationToken = default)
         {
-            T entityToRemove = dbSet.Find(id);
+            var entity = await dbSet.FindAsync(new object[] { id }, cancellationToken);
+            if (entity != null)
+            {
+                dbSet.Remove(entity);
+            }
         }
 
-        public void Remove(T entity)
+        public async Task Remove(T entity, CancellationToken cancellationToken = default)
         {
             dbSet.Remove(entity);
+            await Task.CompletedTask;
         }
     }
 }

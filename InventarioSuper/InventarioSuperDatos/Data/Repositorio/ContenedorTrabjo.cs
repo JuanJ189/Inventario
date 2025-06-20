@@ -12,9 +12,11 @@ namespace InventarioSuperDatos.Data.Repositorio
         {
             _db = db;
             Categoria = new CategoriaRepositorio(_db);
+            Producto = new ProductoRepositorio(_db);
         }
 
         public ICategoriaRepositorio Categoria { get; private set; }
+        public IProductoRepositorio Producto { get; private set; }
 
         public void Dispose()
         {

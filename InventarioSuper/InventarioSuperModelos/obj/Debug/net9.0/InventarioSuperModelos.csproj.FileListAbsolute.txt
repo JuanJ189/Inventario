@@ -21,3 +21,4 @@ C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\Inventar
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperModelos\obj\Debug\net9.0\refint\InventarioSuperModelos.dll
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperModelos\obj\Debug\net9.0\InventarioSuperModelos.pdb
 C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperModelos\obj\Debug\net9.0\ref\InventarioSuperModelos.dll
+C:\Users\HP\Escritorio\C#\Aspe .net core MVC\Inventario\InventarioSuper\InventarioSuperModelos\obj\Debug\net9.0\InventarioSuperModelos.csproj.AssemblyReference.cache
